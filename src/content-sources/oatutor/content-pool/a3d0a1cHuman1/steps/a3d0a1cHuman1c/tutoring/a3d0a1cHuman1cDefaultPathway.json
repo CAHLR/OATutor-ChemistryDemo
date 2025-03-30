@@ -1,6 +1,6 @@
 [
     {
-        "id": "a3d0a1cHuman1c-h1",
+        "id": "afea510Human1c-h1",
         "type": "hint",
         "dependencies": [],
         "title": "Understanding the Concept",
@@ -10,10 +10,10 @@
         "license": ""
     },
     {
-        "id": "a3d0a1cHuman1c-h2",
+        "id": "afea510Human1c-h2",
         "type": "hint",
         "dependencies": [
-            "a3d0a1cHuman1c-h1"
+            "afea510Human1c-h1"
         ],
         "title": "Evaluating the Process",
         "text": "When a volume of air is divided into separate components (nitrogen, oxygen, and argon), think about whether this separation increases or decreases the system's disorder.",
@@ -22,10 +22,10 @@
         "license": ""
     },
     {
-        "id": "a3d0a1cHuman1c-h3",
+        "id": "afea510Human1c-h3",
         "type": "hint",
         "dependencies": [
-            "a3d0a1cHuman1c-h2"
+            "afea510Human1c-h2"
         ],
         "title": "Entropy Basics",
         "text": "Entropy (S) is a measure of the disorder or randomness in a system. Separating a mixture into pure substances typically decreases the entropy because it leads to a more ordered system.",
@@ -34,7 +34,7 @@
         "license": ""
     },
     {
-        "id": "a3d0a1cHuman1c-h4",
+        "id": "afea510Human1c-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,7 +42,7 @@
             "negative"
         ],
         "dependencies": [
-            "a3d0a1cHuman1c-h3"
+            "afea510Human1c-h3"
         ],
         "title": "Determine the Entropy Change",
         "text": "What is the sign of the system's entropy change when a volume of air is divided into separate volumes of nitrogen, oxygen, and argon?",

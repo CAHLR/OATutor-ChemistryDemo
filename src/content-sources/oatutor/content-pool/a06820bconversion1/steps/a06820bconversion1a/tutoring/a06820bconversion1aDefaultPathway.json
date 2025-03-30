@@ -1,6 +1,6 @@
 [
     {
-        "id": "a06820bconversion1a-h1",
+        "id": "afea510conversion1a-h1",
         "type": "hint",
         "dependencies": [],
         "title": "Check for a Balanced Equation",
@@ -10,22 +10,22 @@
         "license": ""
     },
     {
-        "id": "a06820bconversion1a-h2",
+        "id": "afea510conversion1a-h2",
         "type": "hint",
         "dependencies": [
-            "a06820bconversion1a-h1"
+            "afea510conversion1a-h1"
         ],
         "title": "Identify the Stoichiometric Factor",
-        "text": "The stoichiometric factor relating the two substances of interest is $$3$$ mol $$I_2$$ / $$2$$ mol Al.",
+        "text": "The stoichiometric factor relating the two substances of interest is $$\\frac{3\\text{mol} I_2}{2\\text{mol Al}}$$.",
         "variabilization": {},
         "oer": "",
         "license": ""
     },
     {
-        "id": "a06820bconversion1a-h3",
+        "id": "afea510conversion1a-h3",
         "type": "hint",
         "dependencies": [
-            "a06820bconversion1a-h2"
+            "afea510conversion1a-h2"
         ],
         "title": "Calculate the Molar Amount of $$I_2$$",
         "text": "The molar amount of iodine is derived by multiplying the provided molar amount of aluminum by the stoichiometric factor.\\n##figure2.gif##",
@@ -34,7 +34,7 @@
         "license": ""
     },
     {
-        "id": "a06820bconversion1a-h4",
+        "id": "afea510conversion1a-h4",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -42,12 +42,13 @@
             "$$0.644$$"
         ],
         "dependencies": [
-            "a06820bconversion1a-h3"
+            "afea510conversion1a-h3"
         ],
         "title": "Calculate the Molar Amount of $$I_2$$",
-        "text": "What is $$(0.429$$ mol Al)*(3 mol $$I_2$$)/(2 $$mol$$ $$Al)$$?",
+        "text": "What is $$0.429\\text{mol Al}\\times\\frac{3\\text{mol } I_2}{2\\text{mol Al}}$$?",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 0.01
     }
 ]

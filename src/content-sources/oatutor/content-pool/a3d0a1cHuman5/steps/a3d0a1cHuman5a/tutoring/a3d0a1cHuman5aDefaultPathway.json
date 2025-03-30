@@ -1,6 +1,6 @@
 [
     {
-        "id": "a3d0a1cHuman5a-h1",
+        "id": "afea510Human5a-h1",
         "type": "hint",
         "dependencies": [],
         "title": "Understanding Spontaneity",
@@ -10,10 +10,10 @@
         "license": ""
     },
     {
-        "id": "a3d0a1cHuman5a-h2",
+        "id": "afea510Human5a-h2",
         "type": "hint",
         "dependencies": [
-            "a3d0a1cHuman5a-h1"
+            "afea510Human5a-h1"
         ],
         "title": "Gibbs Free Energy Formula",
         "text": "The Gibbs free energy change equation is given by the formula:\\n\u0394G $$=$$ \u0394H - T\u0394S\\nwhere:\\n- \u0394G is the change in Gibbs free energy,\\n- \u0394H is the change in enthalpy,\\n- T is the temperature (in Kelvin),\\n- \u0394S is the change in entropy.",
@@ -22,10 +22,10 @@
         "license": ""
     },
     {
-        "id": "a3d0a1cHuman5a-h3",
+        "id": "afea510Human5a-h3",
         "type": "hint",
         "dependencies": [
-            "a3d0a1cHuman5a-h2"
+            "afea510Human5a-h2"
         ],
         "title": "Condition for Spontaneity",
         "text": "A reaction is spontaneous when the Gibbs free energy change (\u0394G) is negative.",
@@ -34,7 +34,7 @@
         "license": ""
     },
     {
-        "id": "a3d0a1cHuman5a-h4",
+        "id": "afea510Human5a-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,7 +42,7 @@
             "$$\\Delta H<T\\Delta S$$"
         ],
         "dependencies": [
-            "a3d0a1cHuman5a-h3"
+            "afea510Human5a-h3"
         ],
         "title": "Setting the Equation for Spontaneity",
         "text": "Given \u0394G < $$0$$, or \u0394H - T\u0394S < $$0$$. Rearrange this to find the condition under given temperature T.",

@@ -1,6 +1,6 @@
 [
     {
-        "id": "a3d0a1cHuman1b-h1",
+        "id": "afea510Human1b-h1",
         "type": "hint",
         "dependencies": [],
         "title": "Consider the process",
@@ -10,10 +10,10 @@
         "license": ""
     },
     {
-        "id": "a3d0a1cHuman1b-h2",
+        "id": "afea510Human1b-h2",
         "type": "hint",
         "dependencies": [
-            "a3d0a1cHuman1b-h1"
+            "afea510Human1b-h1"
         ],
         "title": "Relate destruction to entropy",
         "text": "Think about what happens to the structure of the building during demolition. How does this affect the level of disorganization or randomness in the system?",
@@ -22,10 +22,10 @@
         "license": ""
     },
     {
-        "id": "a3d0a1cHuman1b-h3",
+        "id": "afea510Human1b-h3",
         "type": "hint",
         "dependencies": [
-            "a3d0a1cHuman1b-h2"
+            "afea510Human1b-h2"
         ],
         "title": "Analyze the components",
         "text": "As the building is demolished, does the number of possible arrangements of objects increase or decrease? How does this relate to entropy?",
@@ -34,7 +34,7 @@
         "license": ""
     },
     {
-        "id": "a3d0a1cHuman1b-h4",
+        "id": "afea510Human1b-h4",
         "type": "scaffold",
         "problemType": "MultipleChoice",
         "answerType": "string",
@@ -42,7 +42,7 @@
             "positive"
         ],
         "dependencies": [
-            "a3d0a1cHuman1b-h3"
+            "afea510Human1b-h3"
         ],
         "title": "Determine entropy change",
         "text": "Entropy measures the degree of disorder. When the building is demolished, does the system's disorder increase, decrease, or remain the same?",

@@ -1,6 +1,6 @@
 [
     {
-        "id": "a67d41fquantum2a-h1",
+        "id": "afea510quantum2a-h1",
         "type": "hint",
         "dependencies": [],
         "title": "Determine the Number of Protons in a Neutral Atom",
@@ -10,7 +10,7 @@
         "license": ""
     },
     {
-        "id": "a67d41fquantum2a-h2",
+        "id": "afea510quantum2a-h2",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -18,7 +18,7 @@
             "$$61$$"
         ],
         "dependencies": [
-            "a67d41fquantum2a-h1"
+            "afea510quantum2a-h1"
         ],
         "title": "Determine the Number of Protons in a Neutral Atom",
         "text": "The atomic number of promethium is $$61$$. This means that a neutral promethium atom has $$61$$ protons.",
@@ -27,10 +27,10 @@
         "license": ""
     },
     {
-        "id": "a67d41fquantum2a-h3",
+        "id": "afea510quantum2a-h3",
         "type": "hint",
         "dependencies": [
-            "a67d41fquantum2a-h1"
+            "afea510quantum2a-h1"
         ],
         "title": "Determine the Number of Neutrons for a Neutral Atom",
         "text": "Number of neutrons for a neutral atom $$=$$ mass number - atomic number",
@@ -39,7 +39,7 @@
         "license": ""
     },
     {
-        "id": "a67d41fquantum2a-h4",
+        "id": "afea510quantum2a-h4",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -47,7 +47,7 @@
             "$$84$$"
         ],
         "dependencies": [
-            "a67d41fquantum2a-h3"
+            "afea510quantum2a-h3"
         ],
         "title": "Determine the Number of Neutrons for a Neutral Atom",
         "text": "What is $$145-61$$?",

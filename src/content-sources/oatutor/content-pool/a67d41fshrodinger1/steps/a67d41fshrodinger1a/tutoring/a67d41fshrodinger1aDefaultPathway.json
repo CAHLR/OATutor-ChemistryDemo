@@ -1,6 +1,6 @@
 [
     {
-        "id": "a67d41fshrodinger1a-h1",
+        "id": "afea510shrodinger1a-h1",
         "type": "hint",
         "dependencies": [],
         "title": "Determine the Principal Quantum Number",
@@ -10,10 +10,10 @@
         "license": ""
     },
     {
-        "id": "a67d41fshrodinger1a-h2",
+        "id": "afea510shrodinger1a-h2",
         "type": "hint",
         "dependencies": [
-            "a67d41fshrodinger1a-h1"
+            "afea510shrodinger1a-h1"
         ],
         "title": "Determine the Corresponding Orbital",
         "text": "Match the angular momentum quantum number to the corresponding orbital. For reference, l $$=$$ 0: s orbital, $$l=1$$: $$p$$ orbital, $$l=2$$: $$d$$ orbital, $$l=3$$: f orbital, etc.",

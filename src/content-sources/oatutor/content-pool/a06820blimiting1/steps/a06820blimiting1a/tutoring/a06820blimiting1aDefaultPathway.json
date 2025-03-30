@@ -1,6 +1,6 @@
 [
     {
-        "id": "a06820blimiting1a-h1",
+        "id": "afea510limiting1a-h1",
         "type": "hint",
         "dependencies": [],
         "title": "Check for a Balanced Equation",
@@ -10,19 +10,19 @@
         "license": ""
     },
     {
-        "id": "a06820blimiting1a-h2",
+        "id": "afea510limiting1a-h2",
         "type": "hint",
         "dependencies": [
-            "a06820blimiting1a-h1"
+            "afea510limiting1a-h1"
         ],
         "title": "Convert Reactants to Moles",
-        "text": "Set up dimensional analysis $$=$$ Mass of Reactant A * (Moles of Reactant A) / (Molar Mass of Reactant A) $$=$$ Moles of Reactant A. Keep four demical places.",
+        "text": "$$\\text{Set up dimensional analysis = } \\text{Mass of Reactant A} \\times \\left(\\frac{\\text{Moles of Reactant A}}{\\text{Molar Mass of Reactant A}}\\right) = \\text{Moles of Reactant A}$$. Keep four decimal places.",
         "variabilization": {},
         "oer": "",
         "license": ""
     },
     {
-        "id": "a06820blimiting1a-h3",
+        "id": "afea510limiting1a-h3",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -30,16 +30,17 @@
             "$$0.0712$$"
         ],
         "dependencies": [
-            "a06820blimiting1a-h2"
+            "afea510limiting1a-h2"
         ],
         "title": "Convert Reactant Si to Moles",
-        "text": "Keep four demical places.",
+        "text": "Keep four decimal places.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 0.001
     },
     {
-        "id": "a06820blimiting1a-h4",
+        "id": "afea510limiting1a-h4",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -47,28 +48,29 @@
             "$$0.0535$$"
         ],
         "dependencies": [
-            "a06820blimiting1a-h2"
+            "afea510limiting1a-h2"
         ],
         "title": "Convert Reactant $$N_2$$ to Moles",
-        "text": "Keep four demical places.",
+        "text": "Keep four decimal places.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 0.001
     },
     {
-        "id": "a06820blimiting1a-h5",
+        "id": "afea510limiting1a-h5",
         "type": "hint",
         "dependencies": [
-            "a06820blimiting1a-h4"
+            "afea510limiting1a-h4"
         ],
         "title": "Find the Amount of Moles of Products formed from the Reactants",
-        "text": "Find the amount of product with the equation: $$___$$ Moles of product C $$=$$ $$___$$ Moles of Reactant A (calculated from step 2) * c Moles of product / a Moles of Reactant A.",
+        "text": "$$\\text{Find the amount of product with the equation: } $$___$$  \\text{Moles of product C} = $$___$$ \\text{Moles of Reactant A (calculated from step 2)} \\times \\frac{c \\text{ Moles of product}}{a \\text{ Moles of Reactant A}}.$$",
         "variabilization": {},
         "oer": "",
         "license": ""
     },
     {
-        "id": "a06820blimiting1a-h6",
+        "id": "afea510limiting1a-h6",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -76,16 +78,17 @@
             "$$0.0237$$"
         ],
         "dependencies": [
-            "a06820blimiting1a-h5"
+            "afea510limiting1a-h5"
         ],
         "title": "Find the Amount of Moles of $$\\text{Si}_3\\text{N}_4$$ formed from $$Si$$",
         "text": "Keep four demical places.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 0.001
     },
     {
-        "id": "a06820blimiting1a-h7",
+        "id": "afea510limiting1a-h7",
         "type": "scaffold",
         "problemType": "TextBox",
         "answerType": "arithmetic",
@@ -93,22 +96,23 @@
             "$$0.0268$$"
         ],
         "dependencies": [
-            "a06820blimiting1a-h5"
+            "afea510limiting1a-h5"
         ],
         "title": "Find the Amount of Moles of $$\\text{Si}_3\\text{N}_4$$ formed from $$N_2$$",
-        "text": "Keep four demical places.",
+        "text": "Keep four decimal places.",
         "variabilization": {},
         "oer": "",
-        "license": ""
+        "license": "",
+        "tolerance": 0.001
     },
     {
-        "id": "a06820blimiting1a-h8",
+        "id": "afea510limiting1a-h8",
         "type": "hint",
         "dependencies": [
-            "a06820blimiting1a-h5"
+            "afea510limiting1a-h5"
         ],
         "title": "Find the Limiting Reactant",
-        "text": "Compare the Moles of product C formed from Reactants A and B. Is Reactant A producing less Moles of product C? If Yes, then Reactant A is limiting. If the answer is NO, then Reactant B is limiting.",
+        "text": "Compare the Moles of product C formed from Reactants A and B. Is Reactant A producing less Moles of product C? If Yes, then Reactant A is limiting. If the answer is No, then Reactant B is limiting.",
         "variabilization": {},
         "oer": "",
         "license": ""
