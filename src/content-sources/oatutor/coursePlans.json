@@ -1,0 +1,47 @@
+[
+    {
+        "courseName": "Chemistry",
+        "courseOER": "https://openstax.org/ <OpenStax>",
+        "courseLicense": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>",
+        "lessons": [
+            {
+                "id": "297klt1w-wJKv-BJGxPfdypE",
+                "name": "Lesson Stoichiometry",
+                "topics": "Module",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "stoichiometry": 0.85
+                }
+            },
+            {
+                "id": "09Utzkef-uz7N-UuOfH4fh2K",
+                "name": "Lesson Quantum",
+                "topics": "Module",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "quantum": 0.85
+                }
+            },
+            {
+                "id": "3T6phfh3-RLkz-x1xUKbohnT",
+                "name": "Lesson Thermodynamics",
+                "topics": "Module 1",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "thermo": 0.85
+                }
+            },
+            {
+                "id": "5hrxRgdv-IXFI-49tHuzm2P1",
+                "name": "Lesson Thermodynamics",
+                "topics": "Module 2",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "problem1": 0.85,
+                    "problem3": 0.85,
+                    "problem5": 0.85
+                }
+            }
+        ]
+    }
+]

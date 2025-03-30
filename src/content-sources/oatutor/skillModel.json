@@ -1,0 +1,56 @@
+{
+    "a06820bconversion1a": [
+        "stoichiometry"
+    ],
+    "a06820blimiting1a": [
+        "stoichiometry"
+    ],
+    "a06820blimiting2a": [
+        "stoichiometry"
+    ],
+    "a06820bmass2a": [
+        "stoichiometry"
+    ],
+    "a67d41fquantum1a": [
+        "quantum"
+    ],
+    "a67d41fquantum2a": [
+        "quantum"
+    ],
+    "a67d41fquantum2b": [
+        "quantum"
+    ],
+    "a67d41fquantum3a": [
+        "quantum"
+    ],
+    "a67d41fshrodinger1a": [
+        "quantum"
+    ],
+    "afea510thermo1a": [
+        "thermo"
+    ],
+    "afea510thermogpt1a": [
+        "thermo"
+    ],
+    "afea510thermogpt7a": [
+        "thermo"
+    ],
+    "afea510thermogpt8a": [
+        "thermo"
+    ],
+    "a3d0a1cGPT2ForHuman3a": [
+        "problem3"
+    ],
+    "a3d0a1cHuman1a": [
+        "problem1"
+    ],
+    "a3d0a1cHuman1b": [
+        "problem1"
+    ],
+    "a3d0a1cHuman1c": [
+        "problem1"
+    ],
+    "a3d0a1cHuman5a": [
+        "problem5"
+    ]
+}
