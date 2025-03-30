@@ -15,6 +15,7 @@
     "equation-editor-react": "https://github.com/CAHLR/equation-editor-react-forked/releases/download/v0.0.10/equation-editor-react-0.0.10.tgz",
     "expr-eval": "~2.0.2",
     "firebase": "~9.9.1",
+    "gh-pages": "^6.3.0",
     "http2": "~3.3.7",
     "list-react-files": "~0.2.0",
     "localforage": "~1.10.0",
@@ -63,7 +64,6 @@
   "devDependencies": {
     "@types/react-resizable": "~1.7.4",
     "cross-env": "^7.0.3",
-    "gh-pages": "~2.2.0",
     "mathlive": "^0.98.3",
     "react-app-rewire-alias": "~1.1.7",
     "react-app-rewired": "~2.2.1"
